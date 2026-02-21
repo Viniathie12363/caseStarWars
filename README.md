@@ -23,9 +23,3 @@ O desafio consiste em analisar métricas biométricas (massa, estatura, medidas 
 ## 📊 Visualização do Modelo
 A árvore gerada permite entender os critérios de decisão de forma visual:
 
-
-
-## 📥 Como rodar este projeto
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
